@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tajweed-app/static/css/main.2e641976.css",
-    "main.js": "/tajweed-app/static/js/main.ce3db665.js",
-    "static/js/787.3ce0968d.chunk.js": "/tajweed-app/static/js/787.3ce0968d.chunk.js",
-    "index.html": "/tajweed-app/index.html",
-    "main.2e641976.css.map": "/tajweed-app/static/css/main.2e641976.css.map",
-    "main.ce3db665.js.map": "/tajweed-app/static/js/main.ce3db665.js.map",
-    "787.3ce0968d.chunk.js.map": "/tajweed-app/static/js/787.3ce0968d.chunk.js.map"
+    "main.css": "/tajwed-app/static/css/main.2e641976.css",
+    "main.js": "/tajwed-app/static/js/main.6e6973dc.js",
+    "static/js/787.3ce0968d.chunk.js": "/tajwed-app/static/js/787.3ce0968d.chunk.js",
+    "index.html": "/tajwed-app/index.html",
+    "main.2e641976.css.map": "/tajwed-app/static/css/main.2e641976.css.map",
+    "main.6e6973dc.js.map": "/tajwed-app/static/js/main.6e6973dc.js.map",
+    "787.3ce0968d.chunk.js.map": "/tajwed-app/static/js/787.3ce0968d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e641976.css",
-    "static/js/main.ce3db665.js"
+    "static/js/main.6e6973dc.js"
   ]
 }
